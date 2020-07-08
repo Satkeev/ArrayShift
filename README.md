@@ -10,3 +10,5 @@ Space Compexity = O(n): We must create a new array of size n+1
 
 ###Solution
 ![](https://codefellows.slack.com/files/ULGSGHXR6/F017DV8LH5E/image.png)
+![](https://app.slack.com/client/T039KG69K/D012R7QJSDV/user_profile/ULKLEDXNX)
+
