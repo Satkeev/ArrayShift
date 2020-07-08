@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace arrayShift
 {
@@ -9,7 +10,6 @@ namespace arrayShift
 			int[] array = { 2, 4, 6, 8 };
 			int value = 5;
 			int[] newArray = ArrayShift(array, value);
-
 
 			//iterate trough array and trying to see the array
 			for (int i = 0; i < newArray.Length; i++)
