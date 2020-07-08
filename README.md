@@ -10,3 +10,4 @@ Space Compexity = O(n): We must create a new array of size n+1
 
 Solution
 ![](https://files.slack.com/files-pri/T039KG69K-F017DV8LH5E/image.png)
+
