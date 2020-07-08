@@ -37,6 +37,7 @@ namespace arrayShift
 					newArray[i] = array[i - 1];
 				}
 			}
+			//new array with new value
 			return newArray;
 
 		}
